@@ -13,7 +13,7 @@
 ### High Schooler and Programmer
 
 
-I am a High School student right now and a self taught programmer. I have been programming for more than 3 years now. I have worked on many [projects](https://acidop.codes/projects) using Python and Javascript and other languages. Currently I am learning about web dev with [react.js](https://reactjs.org) and [next.js](https://nextjs.org) and some designing stuff too.
+I am a High School student right now and a self taught programmer. I have been programming for more than 3 years now. I have worked on many [projects](https://acidop.codes/) using Python and Javascript and other languages. Currently I am learning about web dev with [react.js](https://reactjs.org) and [next.js](https://nextjs.org) and some designing stuff too.
 
 * 🌍  I'm based in India
 * 🖥️  Read my blogs on [acidop.codes](https://acidop.codes)
