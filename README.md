@@ -9,17 +9,12 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeeshan
 
-
-### High Schooler and Programmer
-
-
-I am a High School student right now and a self taught programmer. I have been programming for more than 3 years now. I have worked on many [projects](https://acidop.codes/) using Python and Javascript and other languages. Currently I am learning about web dev with [react.js](https://reactjs.org) and [next.js](https://nextjs.org) and some designing stuff too.
+I am a Computer Science student and a self taught programmer. 
 
 * 🌍  I'm based in India
-* 🖥️  Read my blogs on [acidop.codes](https://acidop.codes)
-* ✉️  You can contact me at [acid@acidop.codes](mailto:acid@acidop.codes)
-* 🧠  Currently I'm learning Next.js
-* 🤝  I'm open to collaborating on **NextJS** and **Cybersecurity** projects.
+* 🖥️  Check out my portfolio at [acidop.codes](https://acidop.codes)
+* ✉️  Contact me at [acid@acidop.codes](mailto:acid@acidop.codes)
+* 🤝  Open to collaborating on projects.
 
 [![](https://komarev.com/ghpvc/?username=AcidOP)](https://komarev.com/ghpvc/?username=AcidOP)
 
