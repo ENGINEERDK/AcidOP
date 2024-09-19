@@ -7,29 +7,27 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeeshan
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepak Yadav
 
-I am a Computer Science student and a self taught programmer. 
+I am a Robotics Engineer and system designer enthusiast. 
 
-* 🌍  I'm based in India
-* 🖥️  Check out my portfolio at [acidop.codes](https://acidop.codes)
-* ✉️  Contact me at [acid@acidop.codes](mailto:acid@acidop.codes)
-* 🤝  Open to collaborating on projects.
+* 🌍  I'm based in India.
+* 🖥️  I am building [Momentum Robotics]([https://acidop.codes](https://www.momentumrobotics.in/))
+* ✉️  Contact me at [deepakkumaryadav.ait@gmail.com](mailto:deepakkumaryadav.ait@gmail.com)
+* 🤝  Open to collaborating on projects related to Robotics, Automation & Quants.
 
 [![](https://komarev.com/ghpvc/?username=AcidOP)](https://komarev.com/ghpvc/?username=AcidOP)
 
 # Skills 💪🏻
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Robotics" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="ROS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Flask" /
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Electronics Design" />
 </p>
 
 # Socials 🤳🏻
@@ -41,10 +39,7 @@ I am a Computer Science student and a self taught programmer.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-# 📛 Holopin Badges
-[![@acidop's Holopin board](https://holopin.io/api/user/board?user=acidop)](https://holopin.io/@acidop)
-
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=AcidOP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AcidOP&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcidOP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ENGINEERDK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ENGINEERDK&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ENGINEERDK&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
